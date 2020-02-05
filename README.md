@@ -9,7 +9,7 @@ If you have any questions, concerns, clarifications, or issues, please do not he
 1. Clone this project using Git.
 2. Follow instructions in [Part 1](#part-1) and include final results in the [Part1-SQL folder](https://github.com/StrivvenMedia/HiringProject/tree/master/Part1-SQL).
 3. Follow instructions in [Part 2]($part-2) and include the final results in the [Part2-App folder](https://github.com/StrivvenMedia/HiringProject/tree/master/Part2-App).
-4.  When you are finished, push your final results to a public repo on github, and send us a link.
+4.  When you are finished, push your final results to a public repo on github, and send us a link. If you do not want to use a repo, please zip the contents of the project and send directly to us.
 
 # Part 1
 The first part of the project is to test your SQL skills.  All the links you will need are provided below and all files are in the [Part1-SQL Folder](https://github.com/StrivvenMedia/HiringProject/tree/master/Part1-SQL).
