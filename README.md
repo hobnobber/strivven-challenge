@@ -27,6 +27,7 @@ The next part involves creating a PHP application using the technologies and dat
 The application needs to include the following.
 1. Create a functioning login page, and logout feature.
 2. Using the [Assessment data](https://github.com/StrivvenMedia/HiringProject/blob/master/Part2-App/Assessment%20Data.xlsx) provided, allow the user to take an assessment. They should be allowed to take the assessment as many times as they want.
+  NOTE: The assessment questions are scored with 1 to 5 points. 5 points for liking most and 1 point for liking least.
 3. Store the results of only the last assessment taken.  (No need to keep the results of every time taking it)
 4. Display the results for the user.
 
@@ -43,7 +44,7 @@ The application needs to include the following.
 * [SlimPHP Framework 2 or 3](https://www.slimframework.com/)
 * [JQuery](https://jquery.com/)
 * [Bootstrap 3 or 4 for CSS](http://getbootstrap.com/docs/3.3/)
-* MySQL or MSSQL
+* MySQL, MSSQL, Flat Files, SQL Lite, etc..
 
 ### Other Technologies that might help
 * [Composer for PHP](https://getcomposer.org/)
