@@ -1,6 +1,6 @@
 # Hiring Project
 
-Link to original README with instructions: TODO link here
+The challenge original README.md has been moved to [README_OLD.md](https://github.com/hobnobber/strivven-challenge/blob/develop/README_OLD.md)
 
 # Part 1
 
